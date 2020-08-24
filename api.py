@@ -20,8 +20,8 @@ app = Flask(__name__)
 model = None
 
 ####### PUT YOUR INFORMATION HERE #######
-CAPTAIN_EMAIL = 'ktps5630@gmail.com'    #
-SALT = 'rossleecooloh'                  #
+CAPTAIN_EMAIL = '********@gmail.com'    #
+SALT = '*************'                  #
 #########################################
 
 
